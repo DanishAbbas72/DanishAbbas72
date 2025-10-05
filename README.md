@@ -1,5 +1,4 @@
 # DanishAbbas72.github.io
-Danish-Abbas-Portfolio 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&speed=50&color=2ecc71&width=900&lines=Hi%2C+I+am+Danish+Abbas+a+passionate+Penetration+Tester+%26+Security+Researcher+from+Pakistan" alt="Hi, I am Danish Abbas a passionate Penetration Tester & Security Researcher from Pakistan (TypeWriter effect Green color)" />
 </div>

@@ -94,7 +94,6 @@ Here are some of the key tools I regularly utilize in my cybersecurity endeavors
   <img src="https://img.shields.io/badge/Hashcat-grey?style=for-the-badge&logo=hashicorp&logoColor=white" alt="Hashcat" />
   <img src="https://img.shields.io/badge/John_the_Ripper-darkgrey?style=for-the-badge&logoColor=white" alt="John the Ripper" />
   <img src="https://img.shields.io/badge/Nessus-red?style=for-the-badge&logoColor=white" alt="Nessus" />
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="QRadar" />
   <img src="https://img.shields.io/badge/Snort-orange?style=for-the-badge&logoColor=white" alt="Wazuh" />
   <img src="https://img.shields.io/badge/Autopsy-darkblue?style=for-the-badge&logoColor=white" alt="Autopsy" />
   <img src="https://img.shields.io/badge/Volatility_Framework-purple?style=for-the-badge&logoColor=white" alt="Volatility Framework" />

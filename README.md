@@ -130,14 +130,6 @@ I identify and responsibly disclose vulnerabilities following coordinated disclo
 
 Developed a machine learning model to detect phishing URLs using feature extraction (URL length, domain entropy, suspicious tokens). Implemented and evaluated multiple classifiers using precision, recall, and F1-score metrics on a custom-built labeled dataset.
 
----
-
-### 📊 [Threat Intelligence Dashboard](https://github.com/DanishAbbas72/threat-intel-dashboard)
-> Python | AbuseIPDB API | VirusTotal API | IOC Analysis | SOC Simulation
-
-Built a Python-based threat intelligence dashboard that automatically collects and analyzes Indicators of Compromise (IOCs) from open-source feeds. Implemented automated alert triage logic categorizing indicators by severity for simulated SOC environments.
-
----
 
 ### 📝 [Security Research & Vulnerability Writeups](https://github.com/DanishAbbas72/security-research)
 > Bug Bounty | OWASP Top 10 | PoC Demonstrations | Responsible Disclosure
@@ -174,15 +166,6 @@ Reconnaissance  →  Enumeration  →  Exploitation  →  Post-Exploitation  →
 
 All assessments follow responsible disclosure standards. Testing is conducted exclusively within authorized bug bounty program scope or controlled lab environments.
 
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanishAbbas72&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Danish Abbas GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanishAbbas72&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
 
 ---
 

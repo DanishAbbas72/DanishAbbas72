@@ -2,7 +2,7 @@
 ### Cybersecurity Researcher | Bug Bounty Hunter | Web Application Penetration Tester
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&speed=50&color=2ecc71&width=900&lines=Cybersecurity+Researcher+%7C+Bug+Bounty+Hunter+%7C+Web+Application+Penetration+Tester;OWASP+Top+10+Specialist+%7C+Vulnerability+Researcher+%7C+Security+Labs+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&speed=50&color=2ecc71&width=900&lines=Cybersecurity+Researcher+%7C+Bug+Bounty+Hunter+%7C+Web+Application+Penetration+Tester;OWASP+Top+10+Specialist+%7C+Vulnerability+Researcher" alt="Typing SVG" />
 </div>
 
 <br>

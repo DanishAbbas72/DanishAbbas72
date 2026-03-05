@@ -65,7 +65,7 @@ I believe in continuous learning and have armed myself with several industry-rec
 
 <div align="left">
   <img src="https://img.shields.io/badge/CEH-darkgreen?style=for-the-badge&logo=shield&logoColor=white" alt="CEH" />
-  
+    <img src="https://img.shields.io/badge/eJPT_(INE Security)-orange?style=for-the-badge&logo=apachespark&logoColor=white" alt="eJPT (INE Security)" />
   <img src="https://img.shields.io/badge/Google_Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Certified Professional" />
   
   <img src="https://img.shields.io/badge/OPSWAT_OT_Security_Expert-red?style=for-the-badge&logo=factory&logoColor=white" alt="OPSWAT OT Security Expert" />

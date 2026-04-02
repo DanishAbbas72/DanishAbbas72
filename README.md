@@ -146,7 +146,7 @@ Published vulnerability research writeups and proof-of-concept demonstrations co
 ## Certifications
 
 <div align="left">
-  <img src="https://img.shields.io/badge/CEH_Practical-darkgreen?style=for-the-badge&logoColor=white" alt="CEH" />
+  <img src="https://img.shields.io/badge/CEH-darkgreen?style=for-the-badge&logoColor=white" alt="CEH" />
   <img src="https://img.shields.io/badge/eJPT_(INE_Security)-orange?style=for-the-badge&logo=apachespark&logoColor=white" alt="eJPT INE Security" />
   <img src="https://img.shields.io/badge/ISC2_CC-1F4287?style=for-the-badge&logo=isc2&logoColor=white" alt="ISC2 Certified in Cybersecurity CC" />
   <img src="https://img.shields.io/badge/Google_Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Professional Certificate" />

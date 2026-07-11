@@ -1,9 +1,36 @@
 # Danish Abbas
+### Cybersecurity Researcher | Bug Bounty Hunter | Web Application Penetration Tester
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&speed=50&color=2ecc71&width=900&lines=Cybersecurity+Researcher+%7C+Bug+Bounty+Hunter+%7C+Web+Application+Penetration+Tester;OWASP+Top+10+Specialist+%7C+Vulnerability+Researcher" alt="Typing SVG" />
 </div>
 
 <br>
+
+---
+
+```
+danish@security ------------------------------------------
+Role: .............. Cybersecurity Researcher, Bug Bounty Hunter
+Focus: ............. Web App Pentesting, OWASP Top 10
+Location: .......... Islamabad, Pakistan
+.
+Languages.Programming: .. Python, Bash, JavaScript, PHP (Laravel)
+Languages.Query: ........ SQL
+Languages.Markup: ....... HTML5
+.
+Platforms: .......... YesWeHack, Bugcrowd, HackTheBox, TryHackMe, PortSwigger
+Core Tools: .......... Burp Suite, Nmap, Nessus, Metasploit, Wireshark, OWASP ZAP
+Forensics/Malware: ... Ghidra, Autopsy, Volatility, Hashcat
+.
+Certifications: ...... CEH, eJPT, ISC2 CC, Google Cybersecurity,
+                        OPSWAT OT Security Expert, EC-Council EHE
+.
+Contact ---------------------------------------------------
+Email: ............... danish.infosec12@gmail.com
+LinkedIn: ............ danish-abbas-132411216
+GitHub: ............... DanishAbbas72
+```
 
 ---
 

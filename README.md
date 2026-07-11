@@ -13,14 +13,29 @@
 
 I'm **Danish Abbas**, a Cybersecurity Researcher and Penetration Tester based in **Islamabad, Pakistan**. I specialize in web application security testing, vulnerability assessment, and bug bounty research. I actively hunt vulnerabilities on **YesWeHack** and **Bugcrowd**, applying OWASP Top 10 methodology to identify and responsibly disclose security flaws in real-world applications.
 
-My work includes manual web application testing with Burp Suite, Python-based security automation, threat intelligence tooling, and documenting exploitation techniques through security writeups and proof-of-concept demonstrations.
+```text
+      [PASTE YOUR ASCII ART HERE]       danish@abbas
+                                        ------------
+                                        OS: .................... Linux (Kali / Ubuntu), Windows
+                                        Uptime: ................ [Your Age/Experience, e.g., 23 years]
+                                        Host: .................. Cybersecurity Researcher & Bug Hunter
+                                        Kernel: ................ Web Application Penetration Tester
+                                        IDE: ................... VS Code, Vim, Burp Suite Pro
 
-- 🔍 Bug Bounty Researcher on **YesWeHack** and **Bugcrowd**
-- 🛡️ Focused on **IDOR, XSS, SQL Injection, Authentication Bypass**
-- 🐍 Security automation with **Python** — recon pipelines, IOC analysis tools
-- 📚 Active on **HackTheBox**, **TryHackMe**, **PortSwigger Web Security Academy**
-- 📄 Published security research: [github.com/DanishAbbas72/security-research](https://github.com/DanishAbbas72/security-research)
+                                        Languages.Programming: . Python, JavaScript, Bash, Go
+                                        Languages.Computer: .... HTML, CSS, JSON, SQL
+                                        Languages.Real: ........ English, Urdu
 
+                                        Hobbies.Software: ...... Exploit Dev, Automation Scripting
+                                        Hobbies.Hardware: ...... Lab Building, Network Hacking
+
+                                        - Contact
+                                        Email.Personal: ........ [Your Email]
+                                        LinkedIn: .............. danish-abbas-132411216
+                                        BugCrowd: .............. DanishAbbas72
+                                        YesWeHack: ............. DanishAbbas72
+
+```
 ---
 
 ## Bug Bounty & Research Platforms

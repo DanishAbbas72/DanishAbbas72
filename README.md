@@ -11,52 +11,6 @@
 
 ```
 
-Country/region
-
-Pakistan | PKR ₨
-Log in
-Cart
-
-Image to ASCII Art Generator
-This free online ASCII art generator instantly converts images into text-based artwork using real ASCII characters. Just upload an image, choose a width in characters, and the tool creates a clean white-on-black terminal-style output. Everything runs locally in your browser — your file never leaves your device. Perfect for designers, developers, artists, and anyone who enjoys retro computer aesthetics.
-
-Start Creating ⤵
-Changelog: v0.4 | Added download as .svg
-
-Image to ASCII Converter
-Upload an image, set a character width and generate white-on-black ASCII art. Everything runs locally in your browser.
-
-Source image
-PNG / JPG • no upload to server
-Upload file
-102367395.jpeg
-High-contrast images, icons and logos usually work best.
-Preview of your image
-
-Width in characters
-46
-
-46
-80–140 is a good starting point. Wider = more detail, more lines.
-
-Character set
-Default
-
-
-Default (mixed density)
-Try different sets to change visual texture — some are denser, some lighter.
-
-
-Invert brightness for very dark images
-
-Generate ASCII
-Clear
-Done. ASCII generated (46 chars wide) using "default" charset.
-ASCII output
-Copy
-Download .txt
-Download .png
-Download .svg
 .........'''''''''''''''''''''''''''''........      danish@abbas -------------------------------------------
 .......'''''''''''''^,"``^^,''''''''''''......      Role: ............... Cybersecurity Researcher, Bug Bounty Hunter
 ....'''''''''''''''``^,,^`^""''''''''''''.....      Focus: .............. Web App Pentesting, OWASP Top 10

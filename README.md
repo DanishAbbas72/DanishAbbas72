@@ -11,7 +11,7 @@
 
 .........'''''''''''''''''''''''''''''........      danish@abbas -------------------------------------------
 .......'''''''''''''^,"``^^,''''''''''''......      Role: ............... Cybersecurity Researcher, Bug Bounty Hunter
-....'''''''''''''''``^,,^`^""''''''''''''.....      Focus: .............. Web App Pentesting, OWASP Top 10
+....'''''''''''''''``^,,^`^""''''''''''''.....      Focus: .............. Web & Mobile App Pentesting, OWASP Top 10
 ...''''''''''''''''`_fcYUc)^"`'''''''''''''...      Location: ........... Islamabad, Pakistan
 ..'.'''''''''''`'`.!)1)Uzjxt"`'''''''''''''...      .
 ''''''''''''````'`^\jffXu}/|^``````''''''''''.      Languages.Programming: .. Python, Bash, JavaScript, PHP (Laravel)
@@ -19,7 +19,7 @@
 .''''''''``'``````l[(ttf|xxt^`'``````'''''''''      Languages.Markup: ....... HTML5
 .''''''''``````````>]((/n/+``````````'''''''''      .
 .'''''''````````^`^\}>;;<){`^^^``````````'''''      Platforms: ........... YesWeHack, Bugcrowd, HackTheBox, TryHackMe, PortSwigger
-.'''''`'````````^^^/nnczYX+^`^^^````````''''''      Core Tools: .......... Burp Suite, Nmap, Nessus, Metasploit, Wireshark, OWASP ZAP
+.'''''`'````````^^^/nnczYX+^`^^^````````''''''      Core Tools: .......... Burp Suite, Nmap, Nessus, Metasploit, Wireshark, OWASP ZAP, MobSF, Frida, JADX, Apktool
 '''''''````````^^"^``'``^""",:"^```````'''''''      Forensics/Malware: ... Ghidra, Autopsy, Volatility, Hashcat
 '''''`````^^"^^^^^^^^^^^"""^"",,,;:,^`````''''      .
 ''''''``^"^`^^^^^""^""^^""","^`""",:I^````''''      Certifications: ...... CEH, eJPT, ISC2 CC, Google Cybersecurity,

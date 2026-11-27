@@ -22,7 +22,7 @@
 .'''''`'````````^^^/nnczYX+^`^^^````````''''''      Core Tools: .......... Burp Suite, Nmap, Nessus, Metasploit, Wireshark, OWASP ZAP, MobSF, Frida, JADX, Apktool
 '''''''````````^^"^``'``^""",:"^```````'''''''      Forensics/Malware: ... Ghidra, Autopsy, Volatility, Hashcat
 '''''`````^^"^^^^^^^^^^^"""^"",,,;:,^`````''''      .
-''''''``^"^`^^^^^""^""^^""","^`""",:I^````''''      Certifications: ...... CEH, eJPT, ISC2 CC, Google Cybersecurity,
+''''''``^"^`^^^^^""^""^^""","^`""",:I^````''''      Certifications: ...... LPT, CPENT, CISM, CEH, CHFI, eJPT, ISC2 CC, Google Cybersecurity,
 ''''''``,"^^`"^""""""Il"""""""^^^",,;:``''''''                             OPSWAT OT Security Expert, EC-Council EHE
 ''''''`^""^^`^""",][]+~]_!,,,^^^"",:;;```'''''
 ''''''`"""^^^`^"",,","",,,,,"^`""",:;;```'''''
